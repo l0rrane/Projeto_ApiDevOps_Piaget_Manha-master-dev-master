@@ -7879,11 +7879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\Projeto_ApiDevOps_Piaget_Manha-master-dev-main\\Projeto_ApiDevOps_Piaget_Manha-master-dev-main\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\Projeto_ApiDevOps_Piaget_Manha-master-dev-esther-master\\Projeto_ApiDevOps_Piaget_Manha-master-dev-esther-master\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj",
       "projectName": "AulaApiDevOpsManhaPiaget",
-      "projectPath": "C:\\Users\\Aluno\\Downloads\\Projeto_ApiDevOps_Piaget_Manha-master-dev-main\\Projeto_ApiDevOps_Piaget_Manha-master-dev-main\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Downloads\\Projeto_ApiDevOps_Piaget_Manha-master-dev-esther-master\\Projeto_ApiDevOps_Piaget_Manha-master-dev-esther-master\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Downloads\\Projeto_ApiDevOps_Piaget_Manha-master-dev-main\\Projeto_ApiDevOps_Piaget_Manha-master-dev-main\\AulaApiDevOpsManhaPiaget\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Downloads\\Projeto_ApiDevOps_Piaget_Manha-master-dev-esther-master\\Projeto_ApiDevOps_Piaget_Manha-master-dev-esther-master\\AulaApiDevOpsManhaPiaget\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
